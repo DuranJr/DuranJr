@@ -44,19 +44,3 @@
   <img src="https://streak-stats.demolab.com?user=DuranJr&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuranJr/DuranJr/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuranJr/DuranJr/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DuranJr/DuranJr/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
-
-<div data-importer="techs" align="left">
-</div>
-
-###
